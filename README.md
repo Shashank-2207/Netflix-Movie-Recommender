@@ -38,7 +38,7 @@ This project uses the **Netflix Prize Dataset**, which was released for a recomm
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Netflix-Movie-Recommender.git](https://github.com/YourUsername/Netflix-Movie-Recommender.git)
+    git clone (https://github.com/Shashank-2207/Netflix-Movie-Recommender)
     ```
 2.  **Install dependencies:**
     ```bash
